@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a Software developer with a first-class degree in Computer Science from The University of Sheffield. Due in part to a passion for helping people I started working in education where I honed my team working, leading and communication skills. I now want to use these skills and my technical knowledge to develop software that improves and emboldens people in their daily lives.
+I am a Software developer with a first-class degree in Computer Science from The University of Sheffield. 
+Due to my passion for helping people, I started working in education where I honed my team working, leadership, mentoring and communication skills. 
+I now want to use these skills and my technical knowledge to develop software that improves and emboldens people in their daily lives.
