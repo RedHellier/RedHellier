@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Red 👋
 
 <!--
 **RedHellier/RedHellier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a Software developer with a first-class degree in Computer Science from The University of Sheffield. Due in part to a passion for helping people I started working in education where I honed my team working, leading and communication skills. I now want to use these skills and my technical knowledge to develop software that improves and emboldens people in their daily lives.
